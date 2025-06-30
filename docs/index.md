@@ -11,6 +11,7 @@ Agregar un archivo index.md dentro de esa carpeta.
 mi-servicio/
 
 ├── docs/
+
 │   └── index.md
 
 └── catalog-info.yaml
@@ -51,11 +52,17 @@ Para tener navegación personalizada, más páginas y mayor control:
 ✅ Estructura recomendada
 
 mi-servicio/
+
 ├── docs/
+
 │   ├── index.md
+
 │   ├── arquitectura.md
+
 │   └── uso.md
+
 ├── mkdocs.yml
+
 └── catalog-info.yaml
 
 
