@@ -8,9 +8,11 @@ Crear una carpeta docs/ en la raíz del repositorio.
 
 Agregar un archivo index.md dentro de esa carpeta.
 
-mi-servicio/␣␣
+mi-servicio/
+
 ├── docs/
 │   └── index.md
+
 └── catalog-info.yaml
 
 ✅ Contenido de index.md
